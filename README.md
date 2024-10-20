@@ -7,4 +7,4 @@
 **Учеба**  
 [Python-разработчик: расширенный курс](https://netology.ru/programs/python)  
 **Фото**  
-![фото](photo_2023-12-04_16-56-59.jpgimage.jpg)
+![фото](./photo_2023-12-04_16-56-59.jpg)
